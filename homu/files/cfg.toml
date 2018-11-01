@@ -53,6 +53,7 @@ secret = "{{ secrets['web-secret'] }}"
     "highfive": {},
     "homu": {},
     "html5ever": {},
+    "hyper-serde": {},
     "io-surface-rs": {},
     "ipc-channel": {
         "extra_reviewers": [ "antrik" ],
